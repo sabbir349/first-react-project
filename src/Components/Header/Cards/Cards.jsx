@@ -5,7 +5,7 @@ import { getDataFromLS } from '../../../LocalStorage/localStorage';
 const Cards = ({handleClick,bookmarks,setBookmarks,handleTime}) => {
     const [values,setValues] = useState([])
     useEffect(()=>{
-        fetch('../../../../public/Data.json')
+        fetch('https://raw.githubusercontent.com/sabbir349/first-react-project/refs/heads/main/public/Data.json')
         .then(res=>res.json())
         .then(data=>setValues(data))
     },[])
