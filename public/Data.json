@@ -1,0 +1,102 @@
+[
+    {
+      "unique_id": "1",
+      "coverImg": "https://i.ibb.co.com/R2cyFzn/nature.jpg",
+      "author_img": "../src/assets/1.png",
+      "author_name": "John Doe",
+      "date": "2024-11-25",
+      "headline": "The Future of AI: What Lies Ahead",
+      "hash_tags": ["#ArtificialIntelligence", "#FutureTech"],
+      "reading_time": "5 min"
+    },
+    {
+      "unique_id": "2",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "Jane Smith",
+      "date": "2024-11-22",
+      "headline": "Exploring the Cosmos: A New Era of Space Exploration",
+      "hash_tags": ["#SpaceExploration", "#Astronomy"],
+      "reading_time": "8 min"
+    },
+    {
+      "unique_id": "3",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "Sarah Lee",
+      "date": "2024-11-20",
+      "headline": "Understanding Quantum Computing: The Basics",
+      "hash_tags": ["#QuantumComputing", "#TechInnovation"],
+      "reading_time": "7 min"
+    },
+    {
+      "unique_id": "4",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "Michael Johnson",
+      "date": "2024-11-18",
+      "headline": "The Rise of Electric Vehicles: What You Need to Know",
+      "hash_tags": ["#ElectricVehicles", "#Sustainability"],
+      "reading_time": "6 min"
+    },
+    {
+      "unique_id": "5",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "Emily Davis",
+      "date": "2024-11-15",
+      "headline": "The Impact of Climate Change on Global Agriculture",
+      "hash_tags": ["#ClimateChange", "#Agriculture"],
+      "reading_time": "9 min"
+    },
+    {
+      "unique_id": "6",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "David Brown",
+      "date": "2024-11-12",
+      "headline": "AI in Healthcare: Revolutionizing the Medical Field",
+      "hash_tags": ["#AIinHealthcare", "#MedTech"],
+      "reading_time": "5 min"
+    },
+    {
+      "unique_id": "7",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "Linda Clark",
+      "date": "2024-11-10",
+      "headline": "Smart Cities: The Intersection of Technology and Urban Living",
+      "hash_tags": ["#SmartCities", "#UrbanTech"],
+      "reading_time": "7 min"
+    },
+    {
+      "unique_id": "8",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "James Wilson",
+      "date": "2024-11-08",
+      "headline": "Sustainable Fashion: The Future of the Industry",
+      "hash_tags": ["#SustainableFashion", "#EcoFriendly"],
+      "reading_time": "6 min"
+    },
+    {
+      "unique_id": "9",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "Sophia Martinez",
+      "date": "2024-11-05",
+      "headline": "Blockchain Beyond Cryptocurrency: Use Cases You Didn't Know About",
+      "hash_tags": ["#Blockchain", "#CryptoInnovation"],
+      "reading_time": "8 min"
+    },
+    {
+      "unique_id": "10",
+      "coverImg": "https://i.ibb.co.com/P9LJCPP/developer.png",
+      "author_img": "../src/assets/1.png",
+      "author_name": "William White",
+      "date": "2024-11-02",
+      "headline": "The Future of Renewable Energy: Solar and Wind Power Innovations",
+      "hash_tags": ["#RenewableEnergy", "#SolarPower"],
+      "reading_time": "6 min"
+    }
+  ]
